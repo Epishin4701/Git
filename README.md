@@ -1,4 +1,4 @@
-# Домашнее задание к занятию "Git" - `Епишин Павел Андеевич`
+# Домашнее задание к занятию `"Git"` - `Епишин Павел Андеевич`
 
 
 ### Инструкция по выполнению домашнего задания
@@ -27,34 +27,33 @@
 `Задание 1
 Что нужно сделать:
 
-Зарегистрируйте аккаунт на GitHub.
-Создайте новый отдельный публичный репозиторий. Обязательно поставьте галочку в поле «Initialize this repository with a README».
-Склонируйте репозиторий, используя https протокол git clone ....
-Перейдите в каталог с клоном репозитория.
-Произведите первоначальную настройку Git, указав своё настоящее имя и email: git config --global user.name и git config --global user.email johndoe@example.com.
-Выполните команду git status и запомните результат.
-Отредактируйте файл README.md любым удобным способом, переведя файл в состояние Modified.
-Ещё раз выполните git status и продолжайте проверять вывод этой команды после каждого следующего шага.
-Посмотрите изменения в файле README.md, выполнив команды git diff и git diff --staged.
-Переведите файл в состояние staged или, как говорят, добавьте файл в коммит, командой git add README.md.
-Ещё раз выполните команды git diff и git diff --staged.
-Теперь можно сделать коммит git commit -m 'First commit'.
-Сделайте git push origin master.
+*Зарегистрируйте аккаунт на GitHub.
+*Создайте новый отдельный публичный репозиторий. Обязательно поставьте галочку в поле «Initialize this repository with a README».
+*Склонируйте репозиторий, используя https протокол git clone ....
+*Перейдите в каталог с клоном репозитория.
+*Произведите первоначальную настройку Git, указав своё настоящее имя и email: git config --global user.name и git config --global user.email johndoe@example.com.
+*Выполните команду git status и запомните результат.
+*Отредактируйте файл README.md любым удобным способом, переведя файл в состояние Modified.
+*Ещё раз выполните git status и продолжайте проверять вывод этой команды после каждого следующего шага.
+*Посмотрите изменения в файле README.md, выполнив команды git diff и git diff --staged.
+*Переведите файл в состояние staged или, как говорят, добавьте файл в коммит, командой git add README.md.
+*Ещё раз выполните команды git diff и git diff --staged.
+*Теперь можно сделать коммит git commit -m 'First commit'.
+*Сделайте git push origin master.
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.`
 
+Ссылка на коммит:
+![Скриншот-1](https://github.com/Epishin4701/Git/blob/main/img/1.jpg)
 
-```
-![alt text](https://github.com/Epishin4701/Git/blob/main/img/1.jpg)
-![alt text](https://github.com/Epishin4701/Git/blob/main/img/2.jpg)
-![alt text](https://github.com/Epishin4701/Git/blob/main/img/3.jpg)
-![alt text](https://github.com/Epishin4701/Git/blob/main/img/4.jpg)
-![alt text](https://github.com/Epishin4701/Git/blob/main/img/5.jpg)
-![alt text](https://github.com/Epishin4701/Git/blob/main/img/6.jpg)
-```
+![Скриншот-2](https://github.com/Epishin4701/Git/blob/main/img/2.jpg)
 
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота 1](ссылка на скриншот 1)`
+![Скриншот-3](https://github.com/Epishin4701/Git/blob/main/img/3.jpg)
 
+![Скриншот-4](https://github.com/Epishin4701/Git/blob/main/img/4.jpg)
+
+![Скриншот-5](https://github.com/Epishin4701/Git/blob/main/img/5.jpg)
+
+![Скриншот-6](https://github.com/Epishin4701/Git/blob/main/img/6.jpg)
 
 ---
 
